@@ -1,4 +1,4 @@
-# Chrome Extensions : Hello Extensions
+# Chrome Extensions : Hello extensions
 ----------
 [Chrome 확장 프로그램 튜토리얼 중 Overview](https://developer.chrome.com/docs/extensions/mv2/overview/) 부분을 참고하여 진행했다.
 
